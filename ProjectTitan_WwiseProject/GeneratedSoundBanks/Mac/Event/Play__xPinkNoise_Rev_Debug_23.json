@@ -1,0 +1,46 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "2127649037",
+    "Type": "Event",
+    "GUID": "{1C43D1A6-7A42-418C-AE82-05E504F858F9}",
+    "Language": "SFX",
+    "Hash": "{76D02375-CA48-5352-B2F1-3BE2D4306C53}",
+    "ObjectPath": "Play__xPinkNoise_Rev_Debug_23",
+    "ShortName": "Play__xPinkNoise_Rev_Debug_23",
+    "Path": "Event/Play__xPinkNoise_Rev_Debug_23.bnk",
+    "Media": [
+     {
+      "Id": "714055343",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "_xPinkNoise_Rev_Debug_23.wav",
+      "Path": "Media/714055343.wem",
+      "CachePath": "E6/{E6B859C9-03A9-A69A-ECC2-3011ED9D1BA3}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2127649037",
+      "Name": "Play__xPinkNoise_Rev_Debug_23",
+      "ObjectPath": "\\Events\\Default Work Unit\\WU_Debugs\\Play__xPinkNoise_Rev_Debug_23",
+      "GUID": "{1C43D1A6-7A42-418C-AE82-05E504F858F9}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "714055343"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9E4BB230-2A88-1F77-892B-4F66085CD8C9}"
+ }
+}

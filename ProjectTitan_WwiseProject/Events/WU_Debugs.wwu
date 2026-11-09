@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F0E690EA-3B85-4956-B5D0-9604C158301F}" SchemaVersion="133" RootDocumentID="{93EFA61D-CC5F-45D8-9E32-15A99537AE33}" ParentDocumentID="{93EFA61D-CC5F-45D8-9E32-15A99537AE33}">
+	<Events>
+		<WorkUnit Name="WU_Debugs" ID="{F0E690EA-3B85-4956-B5D0-9604C158301F}" OwnerID="{93EFA61D-CC5F-45D8-9E32-15A99537AE33}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play__xPinkNoise_Rev_Debug_23" ID="{1C43D1A6-7A42-418C-AE82-05E504F858F9}">
+					<ChildrenList>
+						<Action Name="" ID="{67414C81-E4D4-4554-9642-22AFCA108DC7}" ShortID="459385536">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="_xPinkNoise_Rev_Debug_23" ID="{E624E0B2-03B2-43F6-8BF9-EC6355252015}" WorkUnitID="{2629E7C2-A7D6-4B87-A29F-61936793CB2D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
