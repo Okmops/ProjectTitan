@@ -16,6 +16,11 @@
 						<Sound Name="_xPinkNoise_Rev_Debug_23" ID="{E624E0B2-03B2-43F6-8BF9-EC6355252015}" ShortID="276748075">
 							<PropertyList>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-3</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
